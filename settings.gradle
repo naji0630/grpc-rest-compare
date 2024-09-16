@@ -1,0 +1,5 @@
+rootProject.name = 'grpc-rest-compare'
+include 'grpc-example-server'
+include 'rest-example-server'
+include 'example-client'
+
